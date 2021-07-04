@@ -4,6 +4,8 @@ I have previously worked part time at Timelinks, a Titan Company Limited Franchi
 
 Technologies and Tools that I'm familiar with are Python Programming using Jupyter Notebook (for Data Science), SQL using MySQL Workbench, MS Office (Excel, Word & Powerpoint), SPSS, Tableau, HTML & CSS (Basics)
 
+https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.png
+
 <!---
 varun6299/varun6299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
