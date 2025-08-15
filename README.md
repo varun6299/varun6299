@@ -14,7 +14,7 @@ I enjoy experimenting, open-source collaboration, and sharing insights with the 
 
 ## 💼 Professional Experience
 
-Alongside my studies, I work as an **Associate Consultant in Product Analytics at Eli Lilly**, delivering data-driven solutions and analytical products that enhance efficiency, standardize processes, and drive impactful business outcomes.
+Alongside my studies, I work as an **Associate Consultant in Product Analytics at Eli Lilly**, with 4 years+ experience in delivering data-driven solutions and analytical products that enhance efficiency, standardize processes, and drive impactful business outcomes.
 
 ---
 
