@@ -18,14 +18,14 @@ Alongside my studies, I work as an **Associate Consultant in Product Analytics a
 
 ---
 
-## 🛠️ Technical Skills (as covered in my Data Science Program)
+## 🛠️ Technical Skills 
 
-- **Languages & Libraries:** Python, R, Pandas, Scipy, Scikit-Learn
+- **Languages & Libraries:** Python, Pandas, Scipy, Scikit-Learn
 - **Machine Learning & AI Frameworks:** TensorFlow, Keras, Deep Learning, Artificial Intelligence, Machine Learning
 - **Natural Language Processing/Generative AI:** Hugging Face, Transformer, LangChain
-- **Data Engineering & Cloud:** SQL, Databricks, Azure Databricks, AWS
+- **Data Engineering & Cloud:** SQL & Databricks
 - **Visualization/UI:** Gradio, Tableau, Power BI, OpenCV
-- **Additional Tools:** SPSS, Microsoft Office Suite
+- **Additional Tools:** Jira, GitHub, Microsoft Office Suite
 
 ---
 
